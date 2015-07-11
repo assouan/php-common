@@ -1,0 +1,16 @@
+{
+  "name": "assouan/php-common",
+  "description": "common package",
+  "version": "1.0.0",
+  "type": "metapackage",
+  "keywords": [
+    "php",
+    "package",
+    "common"
+  ],
+  "require": {
+    "assouan/php-dev": "*",
+    "assouan/php-plus": "*",
+    "assouan/php-ormd": "*"
+  }
+}
